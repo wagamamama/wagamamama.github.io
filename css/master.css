@@ -1,0 +1,26 @@
+body {
+  margin-top: 3rem;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #CFD2DA;
+  background-color: #252830;
+}
+
+hr {
+  border: 1px solid #434857;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.day {
+  margin-top: 1.0rem;
+}
