@@ -1,0 +1,31 @@
+[
+  { "title": "TEST", "day": "월요일", "updatedAt": "^_^", "links":
+    [
+      {
+        "episode": "1화",
+        "sub": "./sub/1화.vtt",
+        "magnet": "magnet:?xt=urn:btih:812fbaac26bd5e156110a2cbe7b8bdb41a3d1ed6&dn=%5BOhys-Raws%5D+Gabriel+Dropout+-+01+(AT-X+1280x720+x264+AAC).mp4&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.fastcast.nz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
+      },
+      {
+        "episode": "2화",
+        "sub": "./sub/2화.vtt",
+        "magnet": "magnet:?xt=urn:btih:697105ec482f6f1ff05ef21bbe7a0a250d8c1f10&dn=%5BOhys-Raws%5D+Gabriel+Dropout+-+02+(AT-X+1280x720+x264+AAC).mp4&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.fastcast.nz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
+      },
+      {
+        "episode": "3화",
+        "sub": "./sub/3화.vtt",
+        "magnet": "magnet:?xt=urn:btih:fee7ae75de7f323111e1938e1fe0a8065abd42b6&dn=%5BOhys-Raws%5D+Gabriel+Dropout+-+03+(AT-X+1280x720+x264+AAC).mp4&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.fastcast.nz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
+      },
+      {
+        "episode": "4화",
+        "sub": "./sub/4화.vtt",
+        "magnet": "magnet:?xt=urn:btih:3383d44c55e0d884e8afc3c6d6e06fd9ff18ecff&dn=%5BOhys-Raws%5D+Gabriel+Dropout+-+04+(AT-X+1280x720+x264+AAC).mp4&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.fastcast.nz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
+      },
+      {
+        "episode": "5화",
+        "sub": "./sub/5화.vtt",
+        "magnet": "magnet:?xt=urn:btih:001dc031b8f35b0541595119ba1bbb3ddee9a171&dn=%5BOhys-Raws%5D+Gabriel+Dropout+-+05+(AT-X+1280x720+x264+AAC).mp4&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.fastcast.nz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com"
+      }
+    ]
+  }
+]
